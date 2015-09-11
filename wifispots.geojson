@@ -6,4 +6,13 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6993886480402,56.0378061147893]},"properties":{"adress":"BREDGATAN 11"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6993886480402,56.0378061147893]},"properties":{"adress":"RÖNNOWSGATAN 8"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.648605100827,56.0963471416948]},"properties":{"adress":"ROSENVÄGEN 34"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7976763940455,56.0105620117464]},"properties":{"adress":"KAPRIFOLGATAN 75"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7575889709453,56.0239920168239]},"properties":{"adress":"FRIDAS GATA 82"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7580845743369,56.0123120404346]},"properties":{"adress":"BÄRNSTENSGATAN 34"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6923202949545,56.0553124660724]},"properties":{"adress":"BROMMAGATAN 24"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7219852213611,56.0434915311907]},"properties":{"adress":"VEINGEGATAN 7"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7307435047216,56.0796315632337]},"properties":{"adress":"LILLA GARNISONSGATAN 39"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7442479393079,56.0457579439712]},"properties":{"adress":"SÖDRA HUNNETORPSVÄGEN 50"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7452829647406,56.045337643119]},"properties":{"adress":"SÖDRA HUNNETORPSVÄGEN 56"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.8115306687423,56.030744024968]},"properties":{"adress":"MULLBÄRSGATAN 8"}}
 ]}
