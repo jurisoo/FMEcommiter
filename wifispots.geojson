@@ -15,4 +15,29 @@
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7442479393079,56.0457579439712]},"properties":{"adress":"SÖDRA HUNNETORPSVÄGEN 50"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7452829647406,56.045337643119]},"properties":{"adress":"SÖDRA HUNNETORPSVÄGEN 56"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.8115306687423,56.030744024968]},"properties":{"adress":"MULLBÄRSGATAN 8"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.8115306687423,56.030744024968]},"properties":{"adress":"EKEBERGAVÄGEN 9"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7731178486704,55.9666286851031]},"properties":{"adress":"STORÖVÄGEN 51"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7162585809307,56.0450939527219]},"properties":{"adress":"MALMÖGATAN 25B"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6945615985629,56.0687778683283]},"properties":{"adress":"ROMARES VÄG 20"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7203014003272,56.0496383668507]},"properties":{"adress":"TYRINGEGATAN 206"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7220920704572,56.0492239344526]},"properties":{"adress":"TYRINGEGATAN 298"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6889364334314,56.0495680929583]},"properties":{"adress":"DROTTNINGGATAN 19"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7103753333651,56.0400199534304]},"properties":{"adress":"SÖDRA STENBOCKSGATAN 128"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7268255762749,56.0520203568246]},"properties":{"adress":"SKARAGATAN 20"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7083661990531,56.0390917534925]},"properties":{"adress":"MAGISTERGATAN 2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.71991518042,56.0317889534594]},"properties":{"adress":"NÄRLUNDAVÄGEN 28"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6548031109713,56.0911441925191]},"properties":{"adress":"SERPENTINVÄGEN 3"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6979305988822,56.0438464971871]},"properties":{"adress":"BRUKSGATAN 29"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7002689168313,56.0440186510283]},"properties":{"adress":"SÖDRA STORGATAN 36"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6944448546848,56.1120669458591]},"properties":{"adress":"JONSTORPSVÄGEN 224"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7070352970001,56.0383056490038]},"properties":{"adress":"FURUTORPSGATAN 47"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6930033786432,56.0467413753178]},"properties":{"adress":"DROTTNINGGATAN 2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6969738203226,56.0470144807743]},"properties":{"adress":"BILLEPLATSEN 1"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7580015626441,56.0066913215547]},"properties":{"adress":"MIKLAGÅRDSGATAN 33"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7094412399254,56.0270732983945]},"properties":{"adress":"WIENERGATAN 5"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7094412399254,56.0270732983945]},"properties":{"adress":"INDUSTRIGATAN 29B"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7111270992638,56.027360469866]},"properties":{"adress":"ÖSTRA FRIDHEMSGATAN 2"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7111270992638,56.027360469866]},"properties":{"adress":"WIENERGATAN 1C"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7111270992638,56.027360469866]},"properties":{"adress":"PLANTERINGSVÄGEN 36"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7500086152698,56.0434112631034]},"properties":{"adress":"VÄSTERGÅRDSGATAN 27"}}
 ]}
