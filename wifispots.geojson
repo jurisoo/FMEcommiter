@@ -1,4 +1,12 @@
 {"name":"wifispot","type":"FeatureCollection"
 ,"features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[12.7001088004151,56.0450326851669]},"properties":{"adress":"HAMNTORGET 8"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6954791244583,56.0671739667958]},"properties":{"adress":"ROMARES VÄG 18"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7587623376222,56.0097701693895]},"properties":{"adress":"ÄTTEKULLAGATAN 28"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6993886480402,56.0378061147893]},"properties":{"adress":"BREDGATAN 11"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6993886480402,56.0378061147893]},"properties":{"adress":"RÖNNOWSGATAN 8"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.648605100827,56.0963471416948]},"properties":{"adress":"ROSENVÄGEN 34"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7976763940455,56.0105620117464]},"properties":{"adress":"KAPRIFOLGATAN 75"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7575889709453,56.0239920168239]},"properties":{"adress":"FRIDAS GATA 82"}}
+,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7580845743369,56.0123120404346]},"properties":{"adress":"BÄRNSTENSGATAN 34"}}
 ]}
