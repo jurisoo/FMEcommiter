@@ -1,5 +1,4 @@
 {"name":"wifispot","type":"FeatureCollection"
 ,"features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[12.7001088004151,56.0450326851669]},"properties":{"adress":"HAMNTORGET 8"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[12.6954791244583,56.0671739667958]},"properties":{"adress":"ROMARES VÄG 18"}}
 ]}
